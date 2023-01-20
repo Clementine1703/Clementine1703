@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="[your-linkedin-URL](https://t.me/a_rtem_m)">
+  <a href="https://t.me/clementine1703">
     <img src="https://img.shields.io/badge/-Telegram-blue" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://artemmusic.github.io/portfolio/">
+   <a href="https://clementine1703.github.io/portfolio/">
     <img src="https://img.shields.io/badge/-Portfolio-important" alt="LinkedIn Badge"/>
 </div>
   <h1>
