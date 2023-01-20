@@ -64,3 +64,6 @@ Portfolio: https://clementine1703.github.io/portfolio
 <!-- ---
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=artemmusic&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementine1703&layout=compact)](https://github.com/clementine1703/github-readme-stats)
+
