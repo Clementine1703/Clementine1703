@@ -13,7 +13,7 @@
 </h1>
 </div>
 <div align="center">
- <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="600" height="300"/>
+ <img src="[https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif](https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif)" width="600" height="300"/>
 </div>
 
  ### :man_technologist: About Me :
